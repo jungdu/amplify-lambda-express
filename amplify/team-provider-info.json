@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplifyexpresslambda-20190407122924-authRole",
+            "UnauthRoleArn": "arn:aws:iam::680284422244:role/amplifyexpresslambda-20190407122924-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::680284422244:role/amplifyexpresslambda-20190407122924-authRole",
+            "Region": "ap-northeast-2",
+            "DeploymentBucketName": "amplifyexpresslambda-20190407122924-deployment",
+            "UnauthRoleName": "amplifyexpresslambda-20190407122924-unauthRole",
+            "StackName": "amplifyexpresslambda-20190407122924",
+            "StackId": "arn:aws:cloudformation:ap-northeast-2:680284422244:stack/amplifyexpresslambda-20190407122924/57d76600-58e5-11e9-b3df-0a2d74753dac"
+        }
+    }
+}

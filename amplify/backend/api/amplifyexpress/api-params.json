@@ -1,0 +1,34 @@
+{
+    "paths": [
+        {
+            "name": "/api",
+            "lambdaFunction": "amplifyexpress",
+            "privacy": {
+                "open": true
+            }
+        }
+    ],
+    "resourceName": "amplifyexpress",
+    "apiName": "amplifyexpress",
+    "functionArns": [
+        {
+            "lambdaFunction": "amplifyexpress"
+        }
+    ],
+    "privacy": {
+        "auth": 0,
+        "unauth": 0,
+        "authRoleName": "amplifyexpresslambda-20190407122924-authRole",
+        "unAuthRoleName": "amplifyexpresslambda-20190407122924-unauthRole"
+    },
+    "dependsOn": [
+        {
+            "category": "function",
+            "resourceName": "amplifyexpress",
+            "attributes": [
+                "Name",
+                "Arn"
+            ]
+        }
+    ]
+}
