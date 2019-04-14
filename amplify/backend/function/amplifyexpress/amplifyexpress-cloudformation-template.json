@@ -60,7 +60,7 @@
 				"Timeout": "25",
 				"Code": {
 					"S3Bucket": "amplifyexpresslambda-20190407122924-deployment",
-					"S3Key": "amplify-builds/amplifyexpress-1554608290-latest-build.zip"
+					"S3Key": "amplify-builds/amplifyexpress-1555246245-latest-build.zip"
 				}
 			}
 		},
