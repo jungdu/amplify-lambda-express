@@ -88,3 +88,9 @@ amplify function invoke amplifyexpress
 ```
 
 초기에 생성되는 localhost:3000/api 경로를 통해서 로컬환경에서 테스트를 할 수 있습니다
+
+## Express-ts
+
+typescript로 Express를 작성했을 경우에 변경사항이 생기면, <br>
+amplifyexpress 디렉토리로 가서 **npm run tsc** 명령어를 실행시켜 빌드 한 후 <br>
+**amplify push** 를 통해서 AWS로 update해야함
